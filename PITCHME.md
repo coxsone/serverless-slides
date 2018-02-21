@@ -31,11 +31,14 @@ https://docs.aws.amazon.com/lambda/latest/dg/limits.html
 
 ---
 
-## Magic Trick
+## Side Effects
 
-- Break down packages
-- Break down functions
-- Break down endpoints
+- Vendor lock-in
+- SLA — Service Level Agreements
+- Maintaining many small services may be troubling
+- Cold starts
+
+[Source](https://hackernoon.com/7-ways-your-business-will-benefit-through-serverless-522b3f628a33)
 
 ---
 
