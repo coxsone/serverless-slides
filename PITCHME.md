@@ -72,7 +72,9 @@ https://docs.aws.amazon.com/lambda/latest/dg/limits.html
 [Lambdas + Step Functions](https://github.com/YEDev/reports)
 
 ```bash
-serverless invoke local --stage dev -f queries_summarizeCampaign -p ./inputs/campaignIds.json
+serverless invoke local --stage dev \
+  -f queries_summarizeCampaign
+  -p ./inputs/campaignIds.json
 ```
 
 ---
