@@ -86,7 +86,7 @@ npm run production:deploy
 
 ---
 
-## Use Case 3: Reports
+## Use Case 3: Release Service (API)
 
 [Lambdas + API Gateway](https://github.com/YEDev/release-service)
 
