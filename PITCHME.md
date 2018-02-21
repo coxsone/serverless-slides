@@ -90,6 +90,10 @@ npm run production:deploy
 
 [Lambdas + API Gateway](https://github.com/YEDev/release-service)
 
+```bash
+npm run dev:watch
+```
+
 ---
 
 ### Questions?
