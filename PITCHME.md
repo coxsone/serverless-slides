@@ -64,7 +64,7 @@ https://docs.aws.amazon.com/lambda/latest/dg/limits.html
 
 ## Use Case 1: Conversion Alert
 
-[Clodwatch + Lambda](https://github.com/YEDev/event-juggler/tree/master/lib/schedulers/cloudwatch-lambda)
+[Clodwatch + Lambda](https://github.com/YEDev/event-juggler/tree/master/lib/schedulers/cloudwatch-lambda/deployment)
 
 ---
 
