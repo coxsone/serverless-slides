@@ -73,8 +73,15 @@ https://docs.aws.amazon.com/lambda/latest/dg/limits.html
 
 ```bash
 serverless invoke local --stage dev \
-  -f queries_summarizeCampaign \
-  -p ./inputs/campaignIds.json
+  -f queries_summarizeCampaign -p ./inputs/campaignIds.json
+```
+
+```bash
+npm run test:deploy
+```
+
+```bash
+npm run production:deploy
 ```
 
 ---
