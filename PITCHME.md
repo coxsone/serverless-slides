@@ -73,7 +73,7 @@ https://docs.aws.amazon.com/lambda/latest/dg/limits.html
 
 ```bash
 serverless invoke local --stage dev \
-  -f queries_summarizeCampaign
+  -f queries_summarizeCampaign \
   -p ./inputs/campaignIds.json
 ```
 
