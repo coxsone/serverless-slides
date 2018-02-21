@@ -90,8 +90,9 @@ npm run production:deploy
 
 [Lambdas + API Gateway](https://github.com/YEDev/release-service)
 
+Local: [Serverless Offline Plugin](https://github.com/dherault/serverless-offline)
 ```bash
-npm run dev:watch
+npm run dev:watch // npm wrapper
 ```
 
 ---
