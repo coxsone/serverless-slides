@@ -65,6 +65,15 @@ https://docs.aws.amazon.com/lambda/latest/dg/limits.html
 
 [Clodwatch + Lambda](https://github.com/YEDev/event-juggler/tree/master/lib/schedulers/cloudwatch-lambda/deployment)
 
+```bash
+# Deploy the function in "test" stage
+serverless deploy --stage test --region us-east-1
+```
+
+```bash
+# "cwl" isolates the integration tests to CloudWatchLambda project
+npm run integration:cwl
+```
 ---
 
 ## Use Case 2: Reports
@@ -93,7 +102,7 @@ npm run production:deploy
 <br>
 Local: [Serverless Offline Plugin](https://github.com/dherault/serverless-offline)
 ```bash
-npm run dev:watch // npm wrapper
+npm run dev:watch
 ```
 
 ---
