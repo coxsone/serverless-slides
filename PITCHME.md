@@ -38,7 +38,7 @@ https://docs.aws.amazon.com/lambda/latest/dg/limits.html
 - Maintaining many small services may be troubling
 - Cold starts
 
-[Potential side-effects that might make it unsuitable for your company or your case](https://hackernoon.com/7-ways-your-business-will-benefit-through-serverless-522b3f628a33)
+[Potential side-effects that might make it unsuitable for your company or your case](https://hackernoon.com/7-ways-your-business-will-benefit-through-serverless-522b3f628a33#d6de)
 
 ---
 
@@ -52,9 +52,9 @@ https://docs.aws.amazon.com/lambda/latest/dg/limits.html
 
 ## Panel Use Cases
 
-- Conversion alert |
-- Reports |
-- Release Service |
+1. Conversion alert |
+2. Reports |
+3. Release Service |
 
 ---
 
