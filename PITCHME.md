@@ -53,9 +53,9 @@ https://docs.aws.amazon.com/lambda/latest/dg/limits.html
 
 ## Panel Use Cases
 
-1. Conversion alert |
-2. Reports |
-3. Release Service |
+1. Conversion alert
+2. Reports
+3. Release Service
 
 ---
 
