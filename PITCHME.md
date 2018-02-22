@@ -5,8 +5,9 @@
 
 ## Killer use cases
 
-- [Some use cases](https://www.contino.io/insights/5-killer-use-cases-for-aws-lambda)
-- [Some more use cases](https://www.contino.io/insights/5-more-killer-use-cases-for-aws-lambda)
+- [Some use cases](https://serverless.com/learn/use-cases/)
+- [Some more use cases](https://www.contino.io/insights/5-killer-use-cases-for-aws-lambda)
+- [Some more more use cases](https://www.contino.io/insights/5-more-killer-use-cases-for-aws-lambda)
 
 
 ---
@@ -61,6 +62,11 @@ https://docs.aws.amazon.com/lambda/latest/dg/limits.html
 ## Panel Toolkit
 
 [The Serverless Framework](https://serverless.com/)
+- Increase development speed
+- Avoid vendor lock-in
+- Infrastructure as Code
+- Transactionally deploy
+- Existing ecosystem (adoption, plugins)
 
 ---
 
