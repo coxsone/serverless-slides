@@ -3,6 +3,12 @@
 
 ---
 
+## The Big Picture
+
+![Questions](https://cdn-images-1.medium.com/max/800/0*-LuAY7gx7MGeGoia.)
+
+---
+
 ## Killer use cases
 
 - [Some use cases](https://serverless.com/learn/use-cases/)
