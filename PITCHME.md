@@ -47,7 +47,7 @@ https://docs.aws.amazon.com/lambda/latest/dg/limits.html
 
 - [The hidden costs of serverless](https://medium.com/@amiram_26122/the-hidden-costs-of-serverless-6ced7844780b)
 
-![Questions](https://cdn-images-1.medium.com/max/800/0*-LuAY7gx7MGeGoia.)
+![Questions](https://cdn-images-1.medium.com/max/1600/0*u3iFE_IDB062uz8P.)
 
 ---
 
